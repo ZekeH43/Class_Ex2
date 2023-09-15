@@ -7,3 +7,14 @@
 
     * Why did you choose FinTech as a career path?
     I choose fintech because I am interested in the stock market and creating tools to read and understand it better. I have also started to follow cryptourrency and have been interested in how they are developed. 
+
+
+---
+
+ #Class Example 3
+
+ 
+![image](https://github.com/ZekeH43/Class_Ex2/assets/143846311/ae29fe01-ec09-4247-a23a-ee0820cd9f8f)
+
+#Next Example
+ 
