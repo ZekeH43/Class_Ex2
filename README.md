@@ -14,7 +14,8 @@
  #Class Example 3
 
  
-![image](https://github.com/ZekeH43/Class_Ex2/assets/143846311/ae29fe01-ec09-4247-a23a-ee0820cd9f8f)
+![image](uphold.png)
+
 
 #Next Example
  
