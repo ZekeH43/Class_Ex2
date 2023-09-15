@@ -1,6 +1,6 @@
 # Class_Ex2
   * Who are you? What is your background?
-    Hello my name is Zeke Herrera. My background has nothing to do with fintech I am currently a server at a fine dinning restaurant.
+    Hello my name is Zeke Herrera. My background has nothing to do with fintech I am currently a server at a fine dining restaurant.
 
     * What are your career goals?
     My careers goals after completing the bootcamp is to get a job at a fintech company. I would like to get into a company that deals with blockchain.
